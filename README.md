@@ -1,5 +1,7 @@
 ASP.NET MVC
 ===
+
+[![Join the chat at https://gitter.im/OwenGr/Mvc](https://badges.gitter.im/OwenGr/Mvc.svg)](https://gitter.im/OwenGr/Mvc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 AppVeyor: [![AppVeyor](https://ci.appveyor.com/api/projects/status/969jbosi0qwc1awg/branch/dev?svg=true)](https://ci.appveyor.com/project/aspnetci/mvc/branch/dev)
 
 Travis:   [![Travis](https://travis-ci.org/aspnet/Mvc.svg?branch=dev)](https://travis-ci.org/aspnet/Mvc)
